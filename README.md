@@ -36,5 +36,52 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a>[Shantanu Pandey ](https://www.linkedin.com/in/shantanu-pandey22/)(LinkedIn)</a>
-- Email: shantanupandey223@gmail.com
+- # Prodigy Data Science Internship - Task 1
+
+Welcome to my submission for **Task 1** of the Data Science Internship at **Prodigy Infotech**. In this task, I performed **Exploratory Data Analysis (EDA)** on a dataset provided, focusing on creating visualizations to represent the distribution of a categorical or continuous variable.
+
+---
+
+## Dataset Information
+
+The dataset used for this task is **world_population_dataset**, which contains records of population from the year 2001 to 2022.
+
+---
+
+## Tools and Libraries Used
+
+- **Jupyter Notebook**
+- **Pandas**
+- **NumPy**
+- **Matplotlib** & **Seaborn** for visualizations
+
+---
+
+## Exploratory Data Analysis (EDA)
+
+During the EDA process, I performed the following steps:
+
+### 1. **Data Cleaning**
+- Checked for missing values, duplicates, and outliers in the dataset.
+- Handled missing or erroneous data appropriately to ensure clean and reliable data for analysis.
+
+### 2. **Visualization**
+- Created a **bar chart** and a **stacked chart** to visualize the distribution of a categorical or continuous variable.
+
+---
+
+## Conclusion
+
+This EDA process provided valuable insights into the distribution of the selected variable in the dataset. It serves as a foundational step for further exploration and modeling tasks in the data science workflow.
+
+---
+
+## Contact
+
+For any inquiries or feedback regarding this project, feel free to reach out:
+
+- **Manthan Mehar** (Linkedln) 
+  **Email:** manthanmehar123@gmail.com
+
+
+
